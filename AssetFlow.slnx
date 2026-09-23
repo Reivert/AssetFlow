@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AssetFlow.Api/AssetFlow.Api.csproj" />
+    <Project Path="src/AssetFlow.Application/AssetFlow.Application.csproj" />
+    <Project Path="src/AssetFlow.Domain/AssetFlow.Domain.csproj" />
+    <Project Path="src/AssetFlow.Infrastructure/AssetFlow.Infrastructure.csproj" />
+    <Project Path="src/AssetFlow.Shared/AssetFlow.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AssetFlow.ArchitectureTests/AssetFlow.ArchitectureTests.csproj" />
+    <Project Path="tests/AssetFlow.IntegrationTests/AssetFlow.IntegrationTests.csproj" />
+    <Project Path="tests/AssetFlow.UnitTests/AssetFlow.UnitTests.csproj" />
+  </Folder>
+</Solution>
