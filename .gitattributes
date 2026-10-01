@@ -1,0 +1,12 @@
+# Normaliza arquivos de texto para LF no repositório.
+* text=auto eol=lf
+
+# Arquivos binários que nunca devem sofrer normalização.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.7z binary
